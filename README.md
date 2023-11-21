@@ -1,5 +1,7 @@
 # Comparative-Analysis of Grocery Sales between Big Basket(online-Store) and D-Mart(offline-Store)
 
+![photo](https://github.com/Arshad882/Comparative-Analysis-of-Grocery-Sales-between-Big-Basket-online-Store-and-D-Mart-offline-Store/assets/125073434/fd14cf87-a673-4e33-9289-5aec3eee8d6d)
+
 
 The rise of online grocery shopping has revolutionized the retail industry in recent years, with 
 more and more consumers turning to e-commerce platforms to purchase their everyday essentials. 
